@@ -1,5 +1,5 @@
 # README.github
-TalliHash is designed to be a tag‑centric, polyhierarchical forum platform where:
+TalliHash is designed to be a tag‑centric, polyhierarchical forum platform where, unlike on Reddit:
 
 •	**Tags form communities:** posts live in multiple tags at once, eliminating crossposts.
 
